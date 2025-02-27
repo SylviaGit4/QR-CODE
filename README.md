@@ -16,11 +16,11 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [https://](https://)
+- Solution URL: [QR-Code](https://sylviagit4.github.io/QR-CODE/)
 
 ## My process
 
-Rather than complicate this with using a framework, I felt using HTML and CSS on their own would be sufficient.
+I just did it with HTML and CSS. Simple.
 
 ### Built with
 
